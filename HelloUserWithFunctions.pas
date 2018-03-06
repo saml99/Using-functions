@@ -10,4 +10,5 @@ var
 begin
 	name := ReadString('Please enter your name: ');
 	age := ReadInteger('How old are you this year? : ');
-	
+	year := ReadInteger('What year is it? : ');
+	yearBorn := 
